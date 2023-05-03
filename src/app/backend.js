@@ -1,0 +1,1 @@
+export const API=process.env.ANGULAR_APP_BACKEND;
